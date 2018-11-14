@@ -14,6 +14,8 @@ public class Demo {
 			log.info("object is present");
 		log.error("object is not present");
 		log.fatal("this is fatal");
+		log.fatal("this is fatal");
+
 
 	}
 
